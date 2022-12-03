@@ -5,6 +5,8 @@
 ## Contents
 
 - [Day 1](src/day_01.clj)
+- [Day 2](src/day_02.clj)
+- [Day 3](src/day_03.clj)
 
 ## License
 
