@@ -9,8 +9,6 @@
     open-resource
     first))
 
-(def test-data "mjqjpqmgbljsphdztnvjfqwrcgsmlb")
-
 (defn find-marker [marker-length x]
   (loop [pos marker-length]
     (let [head (take pos x)
