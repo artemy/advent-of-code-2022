@@ -31,8 +31,6 @@
     (map get-priority)
     (reduce +)))
 
-(part-02 data)
-
 (defn -main [& _]
   (println "Day 03:")
   (println "\t-> Part 1: " (part-01 data))
